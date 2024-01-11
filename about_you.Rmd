@@ -26,11 +26,11 @@ I am currently attending Lancaster High school. Math is easier to me compared to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-I use a windows computer, but I have a linux virtual machine. I would consider myself an 8 (in order to be a 10, I need to be the founding fathers of Microsoft which I am not) due to my decent knowledge in programming and windows/linux internals. My bandwith and latency is fine enough for me unless an assignment requires me to open 100 tabs.
+I use a windows computer, but I have a linux virtual machine. I would consider myself an 8 (in order to be a 10, I need to be the founding fathers of Microsoft which I am not) due to my decent knowledge in programming and windows/linux internals. My bandwidth and latency is fine enough for me unless an assignment requires me to open 100 tabs.
    
 
 ## Others and You?   
-What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
+What name do you prefer to be called by your classmates and instructor, if your buddy s call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
 I do have nicknames, however, I prefer not be called these nicknames in class and instead prefer to be called by my first name, Shaun.
@@ -43,7 +43,7 @@ I do have nicknames, however, I prefer not be called these nicknames in class an
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-Due to this vaguely worded question, what I want to achieve in life is to visit 200 skyscrapers over 1,000 feet tall, achieve the power of invisibility, and to get deep into web3 technologies.
+Due to this vaguely worded question, what I want to achieve in life is to visit 200 skyscrapers over 1,000 feet tall, achieve the power of invisibility, and to get deep into web3 technologies.The college subjects that is of greatest interest to me are CS and physics as CS allows to make your ideas into motion and physics allows us to better understand the universe around us. If I were to pursue a degree, it would be CS, mathematics, and physics. The certificate I would consider doing is pentest+ and some other cybersecurity certificates.
  
 
 
@@ -53,7 +53,7 @@ Due to this vaguely worded question, what I want to achieve in life is to visit 
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-I have been to Osaka, Japan. I have not been in the military, but if I had to choose a branch, it would be in the space form because warfare in space seems surreal and fun compared to being stuck on Earth.
+I have been to Osaka, Japan. I have not been in the military, but if I had to choose a branch, it would be in the space force because warfare in space seems surreal and fun compared to being stuck on Earth.The boundaries seem limitless if we battle in space.
   
 
 
